@@ -1,0 +1,18 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "await": "^0.2.6",
+    "botbuilder": "^3.15.0",
+    "firebase": "^5.0.4",
+    "node-telegram-bot-api": "^0.30.0",
+    "restify": "^7.2.0"
+  }
+}
